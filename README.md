@@ -33,7 +33,7 @@
 - **예제10. 범위 데이터를 검색할 수 있어야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=d5c222f47dc4488eab2619839cd40f05&pm=s)
 
 - **예제11. 특정 철자나 단어를 포함하는 검색하는 방법을 알아야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=690e0206420e4dd9bcc23de57ec34281&pm=s)
-- 
+  
 - **예제12. 데이터에서 중복을 제거 할 수 있어야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=5500b49e54f04181ad9dbeb807f67bcf&pm=s)
 
 - **예제13. 데이터를 정렬해서 출력할 수 있어야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=5f5738d66abe44ae865df84a802ffb1d&pm=s)
