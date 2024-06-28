@@ -73,4 +73,4 @@
 
 - **예제30. R에서의 self join 을 알아야 해요**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=e30aabc0f6674fc6b68d939355ebd7cf&pm=s)
 
-- 
+  
