@@ -53,3 +53,24 @@
 - **예제20. R에서의 데이터 변환 함수를 알아야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=c8803c0455a24e45b6bb1bbfd4c56b78&pm=s)
 
 - **예제21. R에서의 일반 함수를 알아야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=59a4e1f6bd474be6a57b05d767ad7a83&pm=s)
+
+- **예제22. R에서의 그룹 함수 max 를 알아야 해요!**:  📄[노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=a2689bacdaf845149c14a2bc192d6ce9&pm=s)
+  &nbsp;
+  
+- **예제23. R에서의 그룹 함수 min 을 알아야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=fa125c5f544347eeb8f89a295493f6c4&pm=s)
+
+- **예제24. R에서의 그룹 함수 length 를 알아야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=22e1364130fd420fa69e53a4e36b8f3e&pm=s)
+
+- **예제25. R에서의 그룹 함수 sum 을 알아야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=d6c1b78b45d040b296c85a328525db6d&pm=s)
+
+- **예제26. R에서의 그룹 함수 mean 을 알아야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=029ff01cb8664cf09575f08f3e43b06f&pm=s)
+
+- **예제27. R에서의 group by 절에 두 개의 컬럼을 사용할 수 있는 방법을 알아야 해요!**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=fb76fe1fba1847c69e5e2cf44f727245&pm=s)
+
+- **예제28. R에서의 equi join 을 알아야 해요**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=6e7f8b3f03fa4839a2da323fcf952952&pm=s)
+
+- **예제29. R에서의 outer join 을 알아야 해요**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=6dd104c7483846a7b4265ea5f9739501&pm=s)
+
+- **예제30. R에서의 self join 을 알아야 해요**: 📄 [노트](https://www.notion.so/164f3dfd7d3e45198ce868bafede3c6c?v=0e23b77813244ef8b44de4d43a3d7fda&p=e30aabc0f6674fc6b68d939355ebd7cf&pm=s)
+
+- 
