@@ -150,3 +150,9 @@
 - **예제68. 서포트 벡터 머신**: 📄 [노트](https://www.notion.so/68-d2ca20fae6da403c9131b42a218f909d?pvs=21)
 
 - **예제69. 신경망**: 📄 [노트](https://www.notion.so/69-014b09d717cf4a7688c6c0278086f1aa?pvs=21)
+
+- **예제70. 연관 분석**: 📄 [노트](https://www.notion.so/70-e58add89981d42d8b9ffa3f79b52d546?pvs=21)
+
+- **예제71. k-means**: 📄 [노트](https://www.notion.so/71-k-means-9c4d042d457c4e1593f5e647f64d5158?pvs=21)
+
+- **예제72. 모델 평가**: 📄 [노트](https://www.notion.so/72-073c9f62f02a4da9be4d534248a39596?pvs=21)
