@@ -156,3 +156,9 @@
 - **예제71. k-means**: 📄 [노트](https://www.notion.so/71-k-means-9c4d042d457c4e1593f5e647f64d5158?pvs=21)
 
 - **예제72. 모델 평가**: 📄 [노트](https://www.notion.so/72-073c9f62f02a4da9be4d534248a39596?pvs=21)
+
+- **예제73. ROC 커브와 cut-off**: 📄 [노트](https://www.notion.so/73-ROC-cut-off-089e946fb5dc48bc92809d1c38ae2c3e?pvs=21)
+
+- **예제74. k-foldout**: 📄 [노트](https://www.notion.so/74-k-foldout-0dab2e0af4d7486088f2ccd2b6be61c8?pvs=21)
+
+- **예제75. 앙상블**: 📄 [노트](https://www.notion.so/75-493fbf835abe41f084ba4b0b37a3dca2?pvs=21)
